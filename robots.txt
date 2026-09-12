@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jack028bot.github.io/locker-portfolio/sitemap.xml
